@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://cliburn.github.io/python-tools/core.html</loc>
+    <lastmod>2022-09-05T20:16:57.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cliburn.github.io/python-tools/nbdev-start.html</loc>
+    <lastmod>2022-09-05T20:14:55.334Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cliburn.github.io/python-tools/index.html</loc>
+    <lastmod>2022-09-05T20:16:28.383Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cliburn.github.io/python-tools/python-tools.html</loc>
+    <lastmod>2022-09-05T20:18:07.065Z</lastmod>
+  </url>
 </urlset>

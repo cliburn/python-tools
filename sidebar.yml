@@ -1,0 +1,6 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_nbdev.ipynb
+      - nbdev-start.ipynb
