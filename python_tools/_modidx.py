@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://cliburn.github.io',
                 'git_url': 'https://github.com/cliburn/python-tools',
                 'lib_path': 'python_tools'},
-  'syms': {'python_tools.core': {'python_tools.core.foo': ('nbdev.html#foo', 'python_tools/core.py')}}}
+  'syms': { 'python_tools.core': {'python_tools.core.foo': ('nbdev.html#foo', 'python_tools/core.py')},
+            'python_tools.python-tools': {'python_tools.python-tools.say_hello': ('nbdev.html#say_hello', 'python_tools/python-tools.py')}}}
